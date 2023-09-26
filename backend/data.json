@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "level": "CEO",
+  "subordinates": [
+    {
+      "id": 2,
+      "level": "CTO",
+      "subordinates": [
+        {
+          "id": 3,
+          "level": "Lead Engineer",
+          "subordinates": [
+            {
+              "id": 4,
+              "level": "Senior Engineer",
+              "subordinates": []
+            },
+            {
+              "id": 5,
+              "level": "Senior Engineer",
+              "subordinates": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
